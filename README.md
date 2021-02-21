@@ -40,7 +40,7 @@ Após a pesquisa com o formulário formulamos uma protopersona e 4 personas de p
 - Verificar a disponibilidade dos livros desejados
 - Localizar o setor no qual se encontra o livro
 
-![alt text](src/img/livreiro.mp4)
+![alt text](src/img/livreiro.gif)
 
 ### 6. Protótipos
 
